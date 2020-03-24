@@ -1,0 +1,41 @@
+package com.epam.tddjunit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import org.junit.Test;
+import org.junit.jupiter.api.BeforeEach;
+public class DeleteA {
+	RemoveA r;
+	@BeforeEach
+	void setUp() {
+		r = new RemoveA();
+	}
+	/*@Test
+	public void delete2Chars() {
+		assertEquals("",r.removeA("AA"));
+	}*/
+	@Test
+	public void delete4Chars() {
+		assertEquals("BCD",r.removeA("ABCD"));
+	}
+	@Test
+	public void delete6Chars() {
+		assertEquals("CD",r.removeA("AACD"));
+	}
+	@Test
+	public void delete7Chars() {
+		assertEquals("BCD",r.removeA("BACD"));
+	}
+	@Test
+	public void delete8Chars() {
+		assertEquals("BBAA",r.removeA("BBAA"));
+	}
+	@Test
+	public void delete5Chars() {
+		assertEquals("BAA",r.removeA("AABAA"));
+	}
+}
+
+

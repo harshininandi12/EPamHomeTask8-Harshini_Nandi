@@ -1,0 +1,155 @@
+2020-03-24 22:59:49,941 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/hp/Desktop/epam8/tddjunit/pom.xml
+2020-03-24 22:59:51,038 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:tddjunit:0.0.1-SNAPSHOT @ /home/hp/Desktop/epam8/tddjunit/pom.xml.
+2020-03-24 22:59:54,158 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/main/java
+2020-03-24 22:59:54,160 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/test/java
+2020-03-24 22:59:54,613 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2020-03-24 22:59:55,241 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 22:59:55,241 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 22:59:55,243 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 22:59:55,244 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:00:05,067 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:00:05,068 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:00:05,069 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:00:05,069 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:00:20,613 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:00:20,613 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:00:20,615 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:00:20,615 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:01:16,894 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:01:16,894 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:01:16,895 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:01:16,895 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:01:23,713 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:01:23,714 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:01:23,720 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:01:23,721 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:02:10,892 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:02:10,892 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:02:10,893 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:02:10,894 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:02:15,448 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:02:15,448 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:02:15,451 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:02:15,451 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:02:34,716 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:02:34,716 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:02:34,723 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:02:34,723 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:02:53,788 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 23:02:54,211 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:tddjunit:0.0.1-SNAPSHOT @ /home/hp/Desktop/epam8/tddjunit/pom.xml.
+2020-03-24 23:02:54,439 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/main/java
+2020-03-24 23:02:54,440 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/test/java
+2020-03-24 23:02:54,500 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 23:02:54,689 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:02:54,689 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:02:54,691 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:02:54,691 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:03:52,467 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:tddjunit:0.0.1-SNAPSHOT @ /home/hp/Desktop/epam8/tddjunit/pom.xml.
+2020-03-24 23:03:52,613 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:03:52,615 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:03:52,620 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:03:52,636 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:03:54,020 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:03:54,020 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:03:54,021 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:03:54,022 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:04:03,408 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:tddjunit:0.0.1-SNAPSHOT @ /home/hp/Desktop/epam8/tddjunit/pom.xml.
+2020-03-24 23:04:03,550 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:04:03,550 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:04:03,552 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:04:03,552 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:04:04,920 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:04:04,921 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:04:04,922 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:04:04,922 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:04:20,785 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:tddjunit:0.0.1-SNAPSHOT @ /home/hp/Desktop/epam8/tddjunit/pom.xml.
+2020-03-24 23:04:20,908 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:04:20,908 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:04:20,910 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:04:20,910 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:04:37,010 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 23:04:37,315 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:tddjunit:0.0.1-SNAPSHOT @ /home/hp/Desktop/epam8/tddjunit/pom.xml.
+2020-03-24 23:04:37,404 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/main/java
+2020-03-24 23:04:37,404 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/test/java
+2020-03-24 23:04:37,457 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 23:04:37,663 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:04:37,663 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:04:37,665 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:04:37,666 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:05:32,003 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:05:32,004 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:05:32,005 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:05:32,005 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:06:54,827 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:06:54,827 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:06:54,829 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:06:54,829 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:07:25,040 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:07:25,041 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:07:25,042 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:07:25,042 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:08:03,236 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:08:03,236 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:08:03,238 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:08:03,238 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:10:34,315 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:10:34,315 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:10:34,316 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:10:34,317 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:12:31,325 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:12:31,329 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:12:31,330 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:12:31,330 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:14:07,630 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:14:07,630 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:14:07,638 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:14:07,639 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:14:42,658 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:14:42,658 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:14:42,659 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:14:42,659 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:16:15,270 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 23:16:15,543 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:tddjunit:0.0.1-SNAPSHOT @ /home/hp/Desktop/epam8/tddjunit/pom.xml.
+2020-03-24 23:16:15,669 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/main/java
+2020-03-24 23:16:15,669 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/test/java
+2020-03-24 23:16:15,726 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 23:16:15,877 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:16:15,877 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:16:15,879 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:16:15,879 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:17:08,061 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:17:08,061 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:17:08,063 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:17:08,063 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:20:09,554 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:20:09,554 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:20:09,555 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:20:09,556 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:21:32,870 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:21:32,871 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:21:32,872 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:21:32,872 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:22:43,244 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:22:43,244 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:22:43,245 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:22:43,245 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:24:39,748 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:24:39,749 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:24:39,751 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:24:39,751 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:26:01,288 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:26:01,288 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:26:01,289 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:26:01,289 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:26:15,269 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:26:15,269 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:26:15,274 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:26:15,274 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:27:17,539 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:27:17,539 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:27:17,544 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:27:17,545 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources
+2020-03-24 23:27:58,152 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:27:58,152 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/main/resources
+2020-03-24 23:27:58,154 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 23:27:58,154 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hp/Desktop/epam8/tddjunit/src/test/resources

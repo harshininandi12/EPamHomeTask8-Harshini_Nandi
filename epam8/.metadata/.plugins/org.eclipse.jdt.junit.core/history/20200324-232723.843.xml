@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DeleteA (1)" project="tddjunit" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="com.epam.tddjunit.DeleteA" time="0.0">
+    <testcase name="delete1" classname="com.epam.tddjunit.DeleteA" time="0.0"/>
+    <testcase name="delete2" classname="com.epam.tddjunit.DeleteA" time="0.0"/>
+    <testcase name="delete3" classname="com.epam.tddjunit.DeleteA" time="0.0"/>
+    <testcase name="delete4" classname="com.epam.tddjunit.DeleteA" time="0.0"/>
+    <testcase name="delete5" classname="com.epam.tddjunit.DeleteA" time="0.0"/>
+    <testcase name="delete6" classname="com.epam.tddjunit.DeleteA" time="0.0"/>
+    <testcase name="delete7" classname="com.epam.tddjunit.DeleteA" time="0.0"/>
+  </testsuite>
+</testrun>
